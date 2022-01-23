@@ -1,3 +1,5 @@
+tgcrypto
 requests
-beautifulsoup
+html5lib
+beautifulsoup4
 pyrogram
